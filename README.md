@@ -6,7 +6,7 @@ This project provides an end-to-end (E2E) solution for generating blog content u
 
 ## Architecture
 
-![alt text](image-1.png)
+![alt text](data/image-1.png)
 
 ## Features
 - **AI-Powered Content**: Uses Amazon Bedrock for advanced text generation.
